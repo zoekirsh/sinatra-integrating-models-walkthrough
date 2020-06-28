@@ -163,5 +163,3 @@ params to the 'post' route where a new instance of the model is created using
 the data from the form. This instance is passed back to the view, where it is
 rendered using erb tags. Pat yourself on the back, this is a big milestone in
 your developer journey!
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-integrating-models-walkthrough'>Integrating Models Sinatra Code-along</a> on Learn.co and start learning to code for free.</p>
