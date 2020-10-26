@@ -153,7 +153,7 @@ results.erb view that is being rendered, using erb tags!
 In our `results.erb` file, use erb tags to display the data stored in the
 `@analyzed_text` variable. Your end result should look something like this:
 
-<img src="https://learn-verified.s3.amazonaws.com/text-analyzer.png">
+![](https://learn-verified.s3.amazonaws.com/text-analyzer.png)
 
 ## Full MVC
 
